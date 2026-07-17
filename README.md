@@ -6,7 +6,7 @@
 
 *Passionate about Artificial Intelligence • Data Analytics • Full Stack Development*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Always+Learning+Something+New" />
 
 </div>
 
@@ -34,9 +34,29 @@ I believe in learning by building, which is why every repository on this profile
 ---
 
 # 💼 Experience
+## BCG X
+**Job simulation participant**
+**Data science (virtual internship experience)**
+
+Completed a customer churn analysis using Python (Pandas, NumPy), applying data visualization and
+predictive modeling. Built and optimized a Random Forest model achieving 50% recall in churn
+prediction. Delivered a concise executive summary with actionable, data-driven insights.
+
+---
+
+
+## Deloitte.
+**Job simulation participant**
+**Data analytics (virtual internship experience)**
+
+Completed a Deloitte data analytics job simulation using real-world operational datasets. Analyzed
+factory device data to identify unhealthy patterns, built Tableau dashboards, and generated actionable
+insights to support data-driven decision-making.
+
+---
+
 
 ## Full Stack Web Development Intern
-
 **Cognifyz Technologies**
 
 * Developed responsive web applications using modern web technologies.
@@ -45,6 +65,7 @@ I believe in learning by building, which is why every repository on this profile
 * Improved application performance and user experience.
 
 ---
+
 
 ## Full Stack Development Intern
 
@@ -87,7 +108,7 @@ Designed and developed the complete web platform for a National Technical Sympos
 
 ---
 
-## 🛒 Full Stack E-Commerce Website
+## 🛒 Shoptrix - Full Stack E-Commerce Website
 
 A responsive web application implementing modern frontend and backend architecture with complete user interaction and database integration.
 
@@ -95,17 +116,27 @@ A responsive web application implementing modern frontend and backend architectu
 
 # 🏆 Achievements
 
-🥇 **First Prize**
+🏅 **First Prize**
 
 National Conference on Digital Technologies & Smart Systems 2K25
 
-🏅 **Fourth Place**
+
+🏅 **Second Prize** 
+
+Science Spark’26 (Intra-College Event), presented an innovative project for
+scientific creativity and presentation skills.
+
+🏅 **Fourth Prize**
 
 National Level Technical Paper Presentation Competition
 
 🎯 **Core Organizer & Symposium Coordinator**
 
 VIDYAM 2K26 National Technical Symposium
+
+🎯 **Participated** in paper presentations at technical symposiums conducted by leading engineering
+colleges in Namakkal, including Paavai college of engineering and Sengunthar engineering
+college.
 
 ---
 
@@ -115,7 +146,7 @@ VIDYAM 2K26 National Technical Symposium
 
 * Python
 * Java
-* JavaScript
+
 
 ### Data Science
 
@@ -142,6 +173,9 @@ VIDYAM 2K26 National Technical Symposium
 * GUVI — Deep Learning
 * Cognifyz Technologies — Full Stack Development
 * ETS Academy — Full Stack Development
+* Udemy - My SQL
+* Microsoft - Generative AI for Data Science( Coursera )
+* HP - Data Science & Analytics
 
 ---
 
@@ -151,14 +185,14 @@ VIDYAM 2K26 National Technical Symposium
 * Machine Learning
 * Data Analytics
 * Software Engineering
-* Backend Development
+* Full Stack Development
 * Cloud Computing
 
 ---
 
 # 🌱 Current Goals
 
-✔ Master Machine Learning
+✔ Master Data Science
 
 ✔ Build Production-Level AI Projects
 
@@ -166,7 +200,7 @@ VIDYAM 2K26 National Technical Symposium
 
 ✔ Improve Data Structures & Algorithms
 
-✔ Become a Software Engineer specializing in AI & Data
+✔ Become a Software Engineer specializing in AI & Data Science
 
 ---
 
@@ -199,6 +233,6 @@ VIDYAM 2K26 National Technical Symposium
 
 Thanks for visiting my GitHub profile!
 
-If you like my work, consider ⭐ starring my repositories.
+
 
 </div>
