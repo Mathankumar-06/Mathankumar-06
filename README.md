@@ -1,91 +1,204 @@
 <div align="center">
 
-# Hi, I'm Mathankumar S 👋
+# 👋 Hi, I'm Mathankumar S
 
-### Artificial Intelligence & Data Science Undergraduate
+### **Artificial Intelligence & Data Science Undergraduate**
 
-*Building intelligent solutions with data, machine learning, and modern software engineering.*
+*Passionate about Artificial Intelligence • Data Analytics • Full Stack Development*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## About Me
+# 💫 About Me
 
-I'm an Artificial Intelligence & Data Science undergraduate who enjoys transforming ideas into practical software solutions. My interests lie at the intersection of **Artificial Intelligence, Data Analytics, and Full Stack Development**, where I can combine data-driven insights with scalable applications.
+I'm an aspiring **Artificial Intelligence & Data Science Engineer** passionate about solving real-world problems through data, intelligent systems, and software development.
 
-Through internships, academic projects, and technical events, I've gained hands-on experience developing web applications, analyzing real-world datasets, and collaborating with teams to deliver impactful solutions.
+I enjoy transforming raw data into meaningful insights, building scalable web applications, and continuously exploring emerging technologies in Artificial Intelligence and Machine Learning.
 
-I believe the best way to learn is by building, which is why this GitHub is a collection of projects that reflect my journey as a developer and aspiring AI engineer.
-
----
-
-## What You'll Find Here
-
-* 🤖 Machine Learning & Data Analytics Projects
-* 🌐 Full Stack Web Applications
-* 📊 Data Visualization & Exploratory Analysis
-* 💡 Problem-Solving Projects
-* 🚀 Continuous Learning & Experimentation
+I believe in learning by building, which is why every repository on this profile represents a step in my journey toward becoming a better engineer.
 
 ---
 
-## Featured Work
+# 🚀 What I'm Working On
 
-### 🚦 AI-Driven Traffic Accident Analysis & Prediction
-
-Analyzed traffic accident datasets using exploratory data analysis, feature engineering, and machine learning techniques to identify accident severity factors and generate actionable insights.
-
----
-
-### 🌐 Symposium Website & Registration Management System
-
-Developed the official website and registration platform for a national-level technical symposium, simplifying participant registration and event administration through a responsive web application.
+* 🤖 Machine Learning & Predictive Analytics
+* 📊 Data Analysis & Visualization
+* 🌐 Full Stack Web Development
+* 🧠 Strengthening Problem Solving & DSA
+* ☁️ Exploring Cloud Technologies
+* 💻 Building Practical Real-World Projects
 
 ---
 
-### 🛒 Full Stack Web Development Projects
+# 💼 Experience
 
-Built responsive web applications with secure backend functionality, RESTful APIs, and database integration while focusing on clean architecture and user experience.
+## Full Stack Web Development Intern
+
+**Cognifyz Technologies**
+
+* Developed responsive web applications using modern web technologies.
+* Built RESTful APIs and integrated external services.
+* Worked with backend development and database management.
+* Improved application performance and user experience.
 
 ---
 
-## Beyond Coding
+## Full Stack Development Intern
 
-Outside of development, I enjoy participating in technical conferences, presenting ideas, organizing events, and continuously learning emerging technologies. I believe strong communication and teamwork are just as important as writing good code.
+**ETS Academy**
+
+* Developed and managed an E-Commerce web application.
+* Worked on frontend interfaces and backend functionality.
+* Implemented secure database operations.
 
 ---
 
-## Current Focus
+# 🚀 Featured Projects
+
+## 🚦 AI-Driven Traffic Accident Analysis & Prediction
+
+An end-to-end data analytics and machine learning project focused on accident severity prediction.
+
+### Highlights
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Feature Engineering
+* Data Visualization
+* Predictive Machine Learning
+* Insight Generation
+
+---
+
+## 🌐 Symposium Website & Registration Management System
+
+Designed and developed the complete web platform for a National Technical Symposium.
+
+### Features
+
+* Responsive Website
+* Online Registration
+* Admin Management
+* Participant Management
+* Event Registration Workflow
+
+---
+
+## 🛒 Full Stack E-Commerce Website
+
+A responsive web application implementing modern frontend and backend architecture with complete user interaction and database integration.
+
+---
+
+# 🏆 Achievements
+
+🥇 **First Prize**
+
+National Conference on Digital Technologies & Smart Systems 2K25
+
+🏅 **Fourth Place**
+
+National Level Technical Paper Presentation Competition
+
+🎯 **Core Organizer & Symposium Coordinator**
+
+VIDYAM 2K26 National Technical Symposium
+
+---
+
+# 🧠 Technical Expertise
+
+### Programming
+
+* Python
+* Java
+* JavaScript
+
+### Data Science
+
+* Data Analysis
+* Machine Learning
+* Data Visualization
+* Exploratory Data Analysis
+
+### Development
+
+* Frontend Development
+* Backend Development
+* REST APIs
+* Database Integration
+
+---
+
+# 📚 Certifications
+
+* IBM — Python for Data Science
+* IBM — Data Analysis using Python
+* GUVI — Data Visualization using Python
+* GUVI — Machine Learning 101
+* GUVI — Deep Learning
+* Cognifyz Technologies — Full Stack Development
+* ETS Academy — Full Stack Development
+
+---
+
+# 🎯 Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
 * Data Analytics
 * Software Engineering
 * Backend Development
-* Open Source
+* Cloud Computing
 
 ---
 
-## My Philosophy
+# 🌱 Current Goals
 
-> *"Technology creates impact when curiosity meets consistency. Every project is another step toward becoming a better engineer."*
+✔ Master Machine Learning
+
+✔ Build Production-Level AI Projects
+
+✔ Contribute to Open Source
+
+✔ Improve Data Structures & Algorithms
+
+✔ Become a Software Engineer specializing in AI & Data
 
 ---
 
-## Let's Connect
+# 📈 GitHub Stats
 
-📧 **Email:** [smathankumar8463@gmail.com](mailto:smathankumar8463@gmail.com)
+```text
+📂 Building Real Projects
+📚 Learning Every Day
+🚀 Improving Continuously
+🤝 Open to Collaboration
+```
 
-💼 **LinkedIn:**
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+[smathankumar8463@gmail.com](mailto:smathankumar8463@gmail.com)
+
+💼 **LinkedIn**
+
 [www.linkedin.com/in/mathankumar-s-1244312a1](http://www.linkedin.com/in/mathankumar-s-1244312a1)
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by!
+### ⭐ *"Code with Purpose. Learn with Curiosity. Build with Impact."*
 
-*Explore my repositories, share feedback, and let's learn together.*
+Thanks for visiting my GitHub profile!
+
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
